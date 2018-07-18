@@ -14,9 +14,7 @@ class Dog
       return "Mutt"
     else
       return @breed
+    end
   end
   
-  def breed=(new_breed)
-    @breed = new_breed
-  end
 end
