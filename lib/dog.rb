@@ -10,6 +10,7 @@ class Dog
   end
   
   def breed
+    if 
     @breed
   end
   
