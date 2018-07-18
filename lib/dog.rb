@@ -10,10 +10,10 @@ class Dog
   end
   
   def breed
-    if @breed == breed
-      return @breed
+    if @breed == nil
+      return "Mutt"
     else
-    @breed
+      return @breed
   end
   
   def breed=(new_breed)
