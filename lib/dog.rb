@@ -10,7 +10,9 @@ class Dog
   end
   
   def breed
-    if @breed == 
+    if @breed == breed
+      return @breed
+    else
     @breed
   end
   
