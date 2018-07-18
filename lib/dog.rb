@@ -14,5 +14,6 @@ class Dog
       "Mutt"
     else
       @breed
+    end
   end
 end
